@@ -43,18 +43,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" style="margin: 0 10px;" />
 
-  <h4>Frontend</h4>
+ <h4>Frontend</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin: 0 10px;" />
 
-  <h4>Backend & Frameworks</h4>
+ <h4>Backend & Frameworks</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache" style="margin: 0 10px;" />
 
-  <h4>Cloud & DevOps</h4>
+ <h4>Cloud & DevOps</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" style="margin: 0 10px;" />
@@ -70,4 +70,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alfeolus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Alfeolus's Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfeolus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  
+  <br/>
+  
+  <img src="https://github.com/Alfeolus/Alfeolus/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
