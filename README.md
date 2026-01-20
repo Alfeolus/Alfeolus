@@ -3,7 +3,7 @@
   # Hi there, I'm Jason Fernando! 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Student;Fullstack+Developer;Cloud+Enthusiast;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Blockchain+Enthusiast;Fullstack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p>
@@ -11,10 +11,10 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/USERNAME-KAMU" target="_blank">
+    <a href="https://www.linkedin.com/in/ong-cornellius-jason-fernando-722719270/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:EMAIL-KAMU@gmail.com">
+    <a href="mailto:jasonfernando100@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Web Development & Cloud Projects**
+- 🔭 I’m currently working on **Web Development & Cloud Projects with Machine Learning**
 - 🌱 I’m currently learning **Advanced Cloud Architecture & DevOps**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I can center a div (sometimes).**
