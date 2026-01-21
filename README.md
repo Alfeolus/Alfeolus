@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+    <em>"Hello World!"</em>
   </p>
 
   <p>
